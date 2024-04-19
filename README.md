@@ -25,7 +25,7 @@ Titular: Bob Brown
 Saldo Inicial: 500.00
 Limite de Saque: 300.00
 
-Informe uma qunatia para sacar: 100.00
+Informe uma quantia para sacar: 100.00
 Novo saldo: 400.00
 -----------------------------
 
