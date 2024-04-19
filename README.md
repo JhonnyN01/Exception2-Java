@@ -34,7 +34,7 @@ Titular: Bob Brown
 Saldo Inicial: 500.00
 Limite de Saque: 300.00
 
-Informe uma qunatia para sacar: 400.00
+Informe uma quantia para sacar: 400.00
 Erro de saque: A quantia excede o limite de saque.
 -----------------------------
 
@@ -43,7 +43,7 @@ Titular: Bob Brown
 Saldo Inicial: 500.00
 Limite de Saque: 300.00
 
-Informe uma qunatia para sacar: 800.00
+Informe uma quantia para sacar: 800.00
 Erro de saque: A quantia excede o limite de saque
 -----------------------------
 
@@ -52,5 +52,5 @@ Titular: Bob Brown
 Saldo Inicial: 200.00
 Limite de Saque: 300.00
 
-Informe uma qunatia para sacar: 250.00
+Informe uma quantia para sacar: 250.00
 Erro de saque: Saldo insuficiente.
